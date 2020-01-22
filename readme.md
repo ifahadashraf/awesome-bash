@@ -1,1 +1,0 @@
-An awesome bash profile that i personally use.
